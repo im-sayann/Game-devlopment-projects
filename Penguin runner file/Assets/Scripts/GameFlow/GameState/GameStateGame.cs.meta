@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7829c89d228bd8f499d26d38754a279d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameUI: {instanceID: 0}
+  - fishCount: {instanceID: 0}
+  - scoreCount: {instanceID: 0}
+  - gameLoopMusic: {fileID: 8300000, guid: 61e23dbf7dfda4b4dbdcbf116ca3acd9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
